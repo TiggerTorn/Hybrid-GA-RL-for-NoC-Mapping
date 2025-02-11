@@ -2,6 +2,8 @@
 
 This repository contains the code and data related to the dissertation titled **"Reinforcement Learning for Application Mapping Optimization in Network-on-Chip"** by Torntan Chainant. The project explores the integration of Reinforcement Learning (RL) with Genetic Algorithms (GA) to improve application mapping efficiency in Network-on-Chip (NoC) architectures, addressing the challenges of communication cost, latency, and power consumption.
 
+Link for the video explanation -> https://www.youtube.com/watch?v=xxTYGuyey_E
+
 ## Introduction
 
 Multiprocessor System-on-Chip (MPSoC) designs rely on efficient communication between processing elements. NoC architectures facilitate this but face challenges like high communication costs and latency. Traditional Genetic Algorithms are often used for application mapping, but they can get stuck in local optima. This project proposes a hybrid approach combining RL and GA (GA+RL) to dynamically optimize task placement, aiming to reduce communication costs and improve overall network performance.
